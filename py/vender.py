@@ -67,7 +67,7 @@ async def engrams():
 
 
 
-client.run("Mzc5ODQ1NTQyMjM2Mzg5Mzc2.DOwgGA.nOpDMALFayuOcvfcy5zRJyNBfjc")
+client.run("{Bot Token}")
 
 
 
