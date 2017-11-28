@@ -141,7 +141,7 @@ async def nani():
         await asyncio.sleep(1)
         return await client.send_file(up, "swswsw.jpg")
 
-client.run("Mzc5ODQ1NTQyMjM2Mzg5Mzc2.DOwgGA.nOpDMALFayuOcvfcy5zRJyNBfjc")
+client.run("(your bot key for discord)")
 
 
 
